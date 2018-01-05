@@ -1,4 +1,4 @@
-# 基于RecycleView的轮播控件 
+# 基于RecyclerView的轮播控件 
 
 已经完成轮播控件的基本功能
 
