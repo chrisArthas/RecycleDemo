@@ -1,5 +1,5 @@
-# »ùÓÚRecycleViewµÄÂÖ²¥¿Ø¼þ 
+# åŸºäºŽRecycleViewçš„è½®æ’­æŽ§ä»¶ 
 
-ÒÑ¾­Íê³ÉÂÖ²¥¿Ø¼þµÄ»ù±¾¹¦ÄÜ
+å·²ç»å®Œæˆè½®æ’­æŽ§ä»¶çš„åŸºæœ¬åŠŸèƒ½
 
-´ý ÖØ¹¹½âñî
+//TODO é‡æž„è§£è€¦
