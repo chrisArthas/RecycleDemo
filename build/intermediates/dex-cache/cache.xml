@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\83e7fbcca468c4ffecf0a34b30c445cb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d4a04619afc2262389ed421b6762c77e9dc7a46">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\6eb6f509e46c6d7df5b96ead8b45aac6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\e6b79106fe7674f86ec76a2b469ef866\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6c47b3d6ef74a657a38945022be05eb3b4360628">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2f5c8d1c39883d51d7981350e9d93083\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7fbacba9409947f3f1fa194db4b31dd9f88174a0">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\76ca4ed0edaab9b8b8177c60d19c58f0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e5ac95feaf0f7fe43e5581d852c5f5e252edea1">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\AndroidStudio\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0-beta1\419585951f4c634aa292db0b734c29541a25b94a\support-annotations-26.0.0-beta1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="419585951f4c634aa292db0b734c29541a25b94a">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\1f7eede2644140b593e45cfef114cc66\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00290831ca6f060783db9c00f7d15c94b9096d7c">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\e16d6c26c43961a902cceea260c6a9d6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9d589dc939ea486f21c048cce2a1366d6f30fe9">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\42ce5d125e8d1dd1593716b9f9721cbd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="926c07c980679a35530feb532d8a5b19147916c3">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\b41e9d552fb7166797b3f16882904ad8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\fb533e3582fa7f182e9ba858c18294d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26ebe5f1e584ab68955c221073a9ba45b8adb80b">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\075987a6232a2481a37bf9899331022f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1665bf0bf1d4702216fd42524675d18c3789e87">
+        <dex dex="D:\demos\TextDemo\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+
+</items>
